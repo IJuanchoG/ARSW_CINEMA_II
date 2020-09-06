@@ -1,2 +1,6 @@
+PARA AÑADIR UN NUEVO CINE:
 curl -i -X POST -HContent-Type:application/json -HAccept:application/json http://localhost:8080/cinemas/cinemaA -d @cinema.json
 
+PARA ACTUALIZAR EL MISMO CINE:
+
+curl -i -X POST -HContent-Type:application/json -HAccept:application/json http://localhost:8080/cinemas/cinemaA -d @cinemaUpdate.json
