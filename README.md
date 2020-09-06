@@ -58,7 +58,7 @@ si necesita instalar algunos de los servicios mencionados puede encontrarlos aqu
 ## Authors
 
 * **Juan Carlos García** - *Initial work* - [IJuanchoG](https://github.com/IJuanchoG)
-* **Davor Javier Cortes** - *Initial work* - [D4vor](https://github.com/D4v0r)
+* **Sergio Alejandro Borhoquez** - *Initial work* - [AlejandroBohal](https://github.com/AlejandroBohal)
 
 
 ## License
