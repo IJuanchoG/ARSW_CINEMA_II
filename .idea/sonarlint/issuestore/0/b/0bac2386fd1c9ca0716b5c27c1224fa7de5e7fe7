@@ -1,0 +1,37 @@
+
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ
+<
+java:S1452+"&Remove usage of generic wildcard type.(ÙŠØ¨
+A
+java:S1452S"&Remove usage of generic wildcard type.(Ñ×ßÂÿÿÿÿÿ
+O
+java:S1128	"4Remove this unused import 'java.util.LinkedHashSet'.(àŽ€¼úÿÿÿÿ
+c
+java:S4488D"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÈÕ·Œùÿÿÿÿ
+^
+java:S4488*"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+h
+java:S11922"RDefine a constant instead of duplicating this literal "Error bla bla bla" 8 times.(£ðÍé
+l
+java:S4488e"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(–®¸˜øÿÿÿÿ8ÌÑïÆ.
+c
+java:S44886"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ËáÙþÿÿÿÿ
+<
+java:S1659l"Declare "y" on a separate line.(²Ê–8¸É½’Æ.
+a
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿
+H
+java:S1452f"&Remove usage of generic wildcard type.(š„£ƒûÿÿÿÿ8ÌÑïÆ.
+c
+java:S4488R"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(üÓÚ¡ÿÿÿÿÿ
+[
+java:S1128"ERemove this unused import 'com.fasterxml.jackson.core.JsonGenerator'.(ñ£õÈ
+Y
+java:S1128"<Remove this unused import 'org.springframework.util.Assert'.(ü‰¤š8›ÿ‘Æ.
+z
+java:S1128"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿ
+A
+java:S14527"&Remove usage of generic wildcard type.(÷ÓÖâúÿÿÿÿ
+<
+java:S1452E"&Remove usage of generic wildcard type.(Æîƒû

@@ -1,0 +1,8 @@
+
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ë½ò£øÿÿÿÿ
+w
+java:S1488s"\Immediately return this expression instead of assigning it to the temporary variable "list".(éÊÉûÿÿÿÿ
+V
+java:S1126L"AReplace this if-then-else statement by a single return statement.(ºÔËd
+
+java:S1488^"jImmediately return this expression instead of assigning it to the temporary variable "cinemaFunctionList".(ÔÌ
