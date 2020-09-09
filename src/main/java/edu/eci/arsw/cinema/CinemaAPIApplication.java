@@ -20,9 +20,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 @ComponentScan(basePackages = {"edu.eci.arsw.cinema"})
 public class CinemaAPIApplication {
 
-    public static void main(String[] args) {
-
-        SpringApplication.run(CinemaAPIApplication.class, args
-        );
+    public static void main(String[] args){
+        SpringApplication.run(CinemaAPIApplication.class, args);
     }
 }

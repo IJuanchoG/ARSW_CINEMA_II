@@ -13,3 +13,13 @@ k
 ;src/main/java/edu/eci/arsw/cinema/CinemaAPIApplication.java,f\a\fabd2a839e8bebeeac8ce5b7a23d8ccb0502b90b
 v
 Fsrc/main/java/edu/eci/arsw/cinema/controllers/CinemaAPIController.java,0\b\0bac2386fd1c9ca0716b5c27c1224fa7de5e7fe7
+c
+3src/main/java/edu/eci/arsw/cinema/model/Cinema.java,3\0\3016e8211732bd7d8467a6f68d2ddb9bdd8c64bc
+k
+;src/main/java/edu/eci/arsw/cinema/model/CinemaFunction.java,9\3\93e7a01c65a916035a1521a88eb1c435502c0aa6
+b
+2src/main/java/edu/eci/arsw/cinema/model/Movie.java,4\5\45a4ebe90d3a3a0e67abbda2db2f2850a5db2e17
+a
+1src/main/java/edu/eci/arsw/cinema/model/Seat.java,3\f\3fc019f5eb94a514593099abff54f0ef5975f544
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

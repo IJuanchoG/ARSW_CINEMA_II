@@ -14,6 +14,7 @@ import edu.eci.arsw.cinema.persistence.CinemaPersitence;
 import org.springframework.stereotype.Component;
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.Collectors;
 
 /**
@@ -22,7 +23,7 @@ import java.util.stream.Collectors;
 @Component("InMemoryCinema")
 public class InMemoryCinemaPersistence implements CinemaPersitence{
     
-    private final Map<String,Cinema> cinemas=new HashMap<>();
+    private final ConcurrentHashMap<String,Cinema> cinemas= new ConcurrentHashMap<>();
 
 
     /**

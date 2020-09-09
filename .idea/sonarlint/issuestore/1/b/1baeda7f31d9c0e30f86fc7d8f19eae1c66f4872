@@ -1,19 +1,19 @@
 
-a
-java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿
 z
 java:S1128"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á¨¾¾
 g
 java:S1192"QDefine a constant instead of duplicating this literal "2018-12-18 15:30" 3 times.(Ğ¢•Å
-S
-java:S1197"8Move the array designator from the variable to the type.(ì…ãüüÿÿÿÿ
-o
-java:S1128"YRemove this unused import 'org.springframework.boot.autoconfigure.SpringBootApplication'.(Ë”ÖÏ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(á¨¾¾
 l
 java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ì…ãüüÿÿÿÿ
+a
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿
 ^
 java:S1192"HDefine a constant instead of duplicating this literal "cinemaX" 3 times.(Ğ¢•Å
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ß—­¬
+o
+java:S1128"YRemove this unused import 'org.springframework.boot.autoconfigure.SpringBootApplication'.(Ë”ÖÏ
 v
 java:S1128"[Remove this unused import 'org.springframework.boot.autoconfigure.EnableAutoConfiguration'.(æèşŞøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ß—­¬

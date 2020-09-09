@@ -1,0 +1,9 @@
+Condiciones de carrera:
+
+- Al consultar y modificar los valores en el hash, es posible haya condición de carrera en esta sección.
+
+Regiones crítica:
+
+- Cuando se desea realizar una compra de un asiento.
+- Cuando se quiere agregar una función a un cinema (actualizarlo).
+- cuando se quiere agregar un cinema.
